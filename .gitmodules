@@ -1,0 +1,21 @@
+[submodule "Platform/config-server"]
+	path = Platform/config-server
+	url = https://github.com/GihanViduranga/eca-config-server.git
+[submodule "Platform/service-registry"]
+	path = Platform/service-registry
+	url = https://github.com/GihanViduranga/eca-service-registry.git
+[submodule "Platform/api-gateway"]
+	path = Platform/api-gateway
+	url = https://github.com/GihanViduranga/eca-api-gateway.git
+[submodule "Service/product-service"]
+	path = Service/product-service
+	url = https://github.com/GihanViduranga/eca-product-service.git
+[submodule "Service/order-service"]
+	path = Service/order-service
+	url = https://github.com/GihanViduranga/eca-order-service.git
+[submodule "Service/notification-service"]
+	path = Service/notification-service
+	url = https://github.com/GihanViduranga/eca-notification-service.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GihanViduranga/eca-frontend.git
