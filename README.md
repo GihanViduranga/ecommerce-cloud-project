@@ -257,18 +257,21 @@ PM2 ensures:
 
 ### GCP Console — Cloud Infrastructure
 > *Add your GCP Console screenshot here*
-```
-![GCP Resources](screenshots/gcp-console.png)
-```
+
+![GCP CONSOLE](https://res.cloudinary.com/du756xpbg/image/upload/v1773988245/Screenshot_2026-03-20_113810_wvlqip.png)
 
 ### Eureka Dashboard — Registered Services
-> *Add your Eureka Dashboard screenshot here*
-```
-![Eureka Dashboard](screenshots/eureka-dashboard.png)
-```
+
+![Eureka Dashboard](https://res.cloudinary.com/du756xpbg/image/upload/v1773988244/Screenshot_2026-03-20_113253_uees5y.png)
+
 
 ### Frontend Application
-> *Add your frontend screenshot here*
+![Frontend1](https://res.cloudinary.com/du756xpbg/image/upload/v1773988244/Screenshot_2026-03-20_113358_uultxs.png)
+
+![Frontend2](https://res.cloudinary.com/du756xpbg/image/upload/v1773988244/Screenshot_2026-03-20_113507_pkeyrt.png)
+
+Check out a video walkthrough of Project:  
+[![Watch the video](https://res.cloudinary.com/du756xpbg/image/upload/v1773988244/Screenshot_2026-03-20_113358_uultxs.png)](https://res.cloudinary.com/du756xpbg/video/upload/v1773989876/Untitled_design_b1aopr.mp4)
 
 ## Getting Started
 
