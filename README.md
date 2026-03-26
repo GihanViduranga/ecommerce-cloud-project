@@ -14,7 +14,6 @@
 ## 🌐 Live Eureka Dashboard
 
 > **🔗 [[http://YOUR_EUREKA_PUBLIC_IP:8761](http://YOUR_EUREKA_PUBLIC_IP:8761)](https://service-registry-1099446496316.asia-south1.run.app)**
-> *(Replace with your actual public Eureka URL)*
 
 ---
 
