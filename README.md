@@ -259,7 +259,6 @@ PM2 ensures:
 ## Screenshots
 
 ### GCP Console — Cloud Infrastructure
-> *Add your GCP Console screenshot here*
 
 ![GCP CONSOLE](https://res.cloudinary.com/du756xpbg/image/upload/v1773988245/Screenshot_2026-03-20_113810_wvlqip.png)
 
