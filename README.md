@@ -124,6 +124,10 @@ ecommerce-cloud-project/          ← Main monorepo (this repo)
 | Frontend | HTML / CSS / JavaScript |
 
 ---
+##Details
+ Student Name - Gihan Viduranga
+ Student ID - 2301691057
+ GCP Project ID - e-commerce-490707
 
 ## Microservices
 
